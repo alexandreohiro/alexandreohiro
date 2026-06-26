@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Alexandre+Ohiro;Backend+Engineer;Python+%7C+Java+%7C+C+%7C+FastAPI;Building+production+systems" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Alexandre+Ohiro;Backend+Engineer;Python+%7C+Java+%7C+C+%7C+Rust;AppSec+%2F+Ethical+Pentesting;Building+production+systems" alt="typing" />
 
 <br/>
 
@@ -58,12 +58,25 @@ I care about correctness, privacy (LGPD), and clean architecture more than I car
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![POSIX](https://img.shields.io/badge/POSIX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly_x86-gray?style=flat-square&logo=assemblyscript&logoColor=white)
 
 - Process management · memory layout · I/O redirection
 - Pipe chaining · signal handling · shell internals
 - Debugging with GDB · memory analysis
+- Memory safety · ownership model (Rust)
+
+### Security
+
+![AppSec](https://img.shields.io/badge/AppSec-D32F2F?style=flat-square&logo=hackthebox&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Ethical_Pentesting-212121?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+- Web application pentesting · attack surface analysis
+- OWASP Top 10 · secure code review · CSRF/XSS/SQLi mitigation
+- Auth hardening: JWT, RBAC, CSRF tokens in production systems
 
 ### AI & Data
 
@@ -150,8 +163,9 @@ Research and learning platform for systems programming — bridging theory and l
 ## Currently
 
 - Shipping features on **SisGeS** — async background jobs, MySQL production hardening
+- Learning **Rust** — Santander 2026 Rust AI Developer program
 - Exploring **multimodal AI** with Gemini for document and video analysis
-- Open to **backend, AI integration, and systems roles** — remote or hybrid, Brazil or international
+- Open to **backend, security, AI integration, and systems roles** — remote or hybrid, Brazil or international
 
 ---
 
